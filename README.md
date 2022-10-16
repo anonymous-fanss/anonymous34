@@ -13,8 +13,9 @@ _______________________________________
 
 `pkg install python`
 
-`git clone https://github.com/anonymous-fanss/cracker-rubika`
+`
 
+https://github.com/anonymous-fanss/anonymous-fanss.git
 `cd cracker-rubika`
 
 `chmod 777 *`
